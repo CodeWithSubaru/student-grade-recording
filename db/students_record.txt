@@ -1,0 +1,13 @@
+Id: 3
+First Name: Marian
+Middle Name: Ramos
+Last Name: Dela Cruz
+1st Semester
+1st Sem Prelims: 
+1st Sem Mid Term: 
+1st Sem Finals: 
+2nd Semester
+2nd Sem Prelims: 1.1
+2nd Sem Mid Term: 
+2nd Sem Finals: 
+
